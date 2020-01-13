@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pickone-temp/static/css/main.4f875277.chunk.css",
+    "main.js": "/pickone-temp/static/js/main.424bebfb.chunk.js",
+    "main.js.map": "/pickone-temp/static/js/main.424bebfb.chunk.js.map",
+    "runtime-main.js": "/pickone-temp/static/js/runtime-main.a1f733c8.js",
+    "runtime-main.js.map": "/pickone-temp/static/js/runtime-main.a1f733c8.js.map",
+    "static/js/2.18296b3b.chunk.js": "/pickone-temp/static/js/2.18296b3b.chunk.js",
+    "static/js/2.18296b3b.chunk.js.map": "/pickone-temp/static/js/2.18296b3b.chunk.js.map",
+    "index.html": "/pickone-temp/index.html",
+    "precache-manifest.0017a046b5de278156c5a8c362be52d8.js": "/pickone-temp/precache-manifest.0017a046b5de278156c5a8c362be52d8.js",
+    "service-worker.js": "/pickone-temp/service-worker.js",
+    "static/css/main.4f875277.chunk.css.map": "/pickone-temp/static/css/main.4f875277.chunk.css.map",
+    "static/js/2.18296b3b.chunk.js.LICENSE": "/pickone-temp/static/js/2.18296b3b.chunk.js.LICENSE",
+    "static/media/logo.svg": "/pickone-temp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1f733c8.js",
+    "static/js/2.18296b3b.chunk.js",
+    "static/css/main.4f875277.chunk.css",
+    "static/js/main.424bebfb.chunk.js"
+  ]
+}
