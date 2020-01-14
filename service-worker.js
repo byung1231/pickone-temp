@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pickone-temp/precache-manifest.0017a046b5de278156c5a8c362be52d8.js"
+  "/pickone-temp/precache-manifest.9a6d710f9e5d7662afffaa474b96c016.js"
 );
 
 self.addEventListener('message', (event) => {

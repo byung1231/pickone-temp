@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10035dc7ce95bda5e79c8fe8142956b7",
+    "revision": "3138736bbf3a138603c0d44d64bdcd07",
     "url": "/pickone-temp/index.html"
   },
   {
-    "revision": "09940ebb8216e78a90f6",
-    "url": "/pickone-temp/static/css/main.4f875277.chunk.css"
+    "revision": "3838f5cae1bdaf1d704c",
+    "url": "/pickone-temp/static/css/main.0e6d4315.chunk.css"
   },
   {
     "revision": "ed611f434af5ca1317c7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pickone-temp/static/js/2.18296b3b.chunk.js.LICENSE"
   },
   {
-    "revision": "09940ebb8216e78a90f6",
-    "url": "/pickone-temp/static/js/main.424bebfb.chunk.js"
+    "revision": "3838f5cae1bdaf1d704c",
+    "url": "/pickone-temp/static/js/main.4cb4977f.chunk.js"
   },
   {
     "revision": "484eb60cfe0a645641dd",
